@@ -83,12 +83,13 @@ Data quality issues can affect visit counts and conversion calculations.
 - Data quality should be considered when interpreting conversion metrics.
 
 ## Tools Used
-
+- Python Libraris
 - Power BI
 - Power Query
 - DAX
 - Data Cleaning
 - Data Visualization
+- - Excel
 
 ## Note
 
